@@ -1,0 +1,49 @@
+.counter{margin: 0.5em;
+padding: 1em;
+border-radius: 1em;
+border: 3px solid;
+flex: 1;}
+
+.countdown{margin: 0.5em;
+ padding: 1em;
+border-radius: 1em;
+border: 3px solid;
+flex: 1;}
+
+.show{margin: 0.5em;
+padding: 1em;
+ border-radius: 1em;
+border: 3px solid;
+flex: 1;}
+
+.awesome{margin: 0.5em;
+ padding: 1em;
+ border-radius: 1em;
+border: 3px solid;
+ flex: 1;}
+
+.paragraph{margin: 0.5em;
+ padding: 1em;
+ border-radius: 1em;
+border: 3px solid;
+flex: 1;}
+
+ .sentence{margin: 0.5em;
+ padding: 1em;
+ border-radius: 1em;
+ border: 3px solid;
+ flex: 1;}
+.socks{margin: 0.5em;
+ padding: 1em;
+ border-radius: 1em;
+ border: 3px solid;
+ flex: 1;}
+ .groceries{margin: 0.5em;
+  padding: 1em;
+ border-radius: 1em;
+ border: 3px solid;
+flex: 1;}
+
+@media (min-width : 960px) {
+    .count {display: flex;}
+}
